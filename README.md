@@ -31,3 +31,5 @@ myName = 'Angular Wiz Escu'
 1. Schimba valoarea proprietatii `name`: observa ca se actualizeaza si pagina
 
 **Hint**: Nu uita sa folosesti interpolarea (`{{name}}`). Altfel va fi afisat string-ul `name` in loc de valoarea lui
+___
+# 3. More Interpolation
