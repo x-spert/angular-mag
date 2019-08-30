@@ -27,5 +27,7 @@ myName = 'Angular Wiz Escu'
 1. Deschide template-ul componentei AppComponent (`app.component.html`)
 1. Gaseste tag-ul `<h1>`
 1. Inlocuieste continutul (`Angular`) cu proprietatea `name`
+1. Deschide typescript-ul componentei AppComponent (`app.component.ts`)
+1. Schimba valoarea proprietatii `name`: observa ca se actualizeaza si pagina
 
 **Hint**: Nu uita sa folosesti interpolarea (`{{name}}`). Altfel va fi afisat string-ul `name` in loc de valoarea lui
