@@ -11,3 +11,21 @@ Gaseste fisierul HTML in care AppComponent este reprezentat printr-un tag html.
 
 **Hint**: AppComponent defineste tag-ul HTML in decoratorul `@Component`
 ___
+# 2. Interpolation
+## Afisarea unei variable in HTML
+Angular ne ofera o sintaxa speciala pentru a include in template (in HTML) date definite in logica componentei (in fisierul .ts)
+
+```javascript
+// Component Typescript code
+myName = 'Angular Wiz Escu'
+
+// Component template HTML code
+<div> Numele meu este {{ myName }} </div>
+```
+
+## Task
+1. Deschide template-ul componentei AppComponent (`app.component.html`)
+1. Gaseste tag-ul `<h1>`
+1. Inlocuieste continutul (`Angular`) cu proprietatea `name`
+
+**Hint**: Nu uita sa folosesti interpolarea (`{{name}}`). Altfel va fi afisat string-ul `name` in loc de valoarea lui
