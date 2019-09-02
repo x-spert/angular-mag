@@ -33,3 +33,11 @@ myName = 'Angular Wiz Escu'
 **Hint**: Nu uita sa folosesti interpolarea (`{{name}}`). Altfel va fi afisat string-ul `name` in loc de valoarea lui
 ___
 # 3. More Interpolation
+## Afisarea proprietatilor unui obiect
+In componenta AppComponent am adaugat proprietatea product ca obiect.
+Observati structura.
+
+## Task
+1. Deschide template-ul componentei AppComponent
+1. Inlocuieste campurile care definesc produsul cu proprietatile obiectului `product` folosind interpolare.
+1. Modifica informatii din obiectul product si observa cum se actualizeaza in pagina.
