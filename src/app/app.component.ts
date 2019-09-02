@@ -17,7 +17,7 @@ export class AppComponent  {
     },
     {
       name: 'Huawei P345',
-      summary: 'Huawei P349 34 cameras, 9"',
+      summary: 'Huawei P349 34 cameras, 9" display',
       description: 'Huawei P345 will catch every detail of the picture you take with its 34 cameras of ultra high resolution. Details will never esacpe your camera and the 9 inch design allows folding like a papirus. You will look like a digitalized roman emperor',
       price: '4800',
     }
